@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaG+r9tJX20eEWZ6g+2Eyte3lRavqdINXaSj5NUV8m6stVxoDM9BSB9co/Ee4B6VOWGZSXFNWjYtI4XFJcvcpg==",
+  "success": true,
+  "projectFilePath": "D:\\Durant\\Projects\\ValidateInput\\ValidateInput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
